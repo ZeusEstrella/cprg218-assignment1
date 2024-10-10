@@ -21,7 +21,9 @@
     margin: 10px 0;
 }
 
-
+ figure h2{
+    color:#120323
+ }
 figure {
     display: flex;
     align-items: center;
@@ -33,6 +35,10 @@ figure img {
 }
 figure figcaption {
     padding: 10px;
+    
+}
+
+
 }
 
 
@@ -49,14 +55,6 @@ footer {
 
 
 
-
-
-
-@media screen and (max-width: 999px) {
-    #container {
-        flex-direction: column;
-    }
-}
 
 
 @media screen and (max-width: 999px) {
