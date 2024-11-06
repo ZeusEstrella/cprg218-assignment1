@@ -21,9 +21,9 @@
     margin: 10px 0;
 }
 
- figure h2{
+figure h2{
     color:#120323
- }
+}
 figure {
     display: flex;
     align-items: center;
@@ -37,8 +37,6 @@ figure figcaption {
     padding: 10px;
     
 }
-
-
 
 aside {
     background-color: #97bf04;
